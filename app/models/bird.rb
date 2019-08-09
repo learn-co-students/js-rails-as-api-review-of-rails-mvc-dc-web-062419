@@ -1,1 +1,4 @@
-# Add code from Readme
+# frozen_string_literal: true
+
+class Bird < ApplicationRecord
+end
